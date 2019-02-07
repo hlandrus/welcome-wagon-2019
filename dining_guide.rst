@@ -97,6 +97,8 @@ and has many new and established restaurants and bars. There are several cute sh
 
 **Downtown Seattle - International District**
 
+*25-30 minutes via public transit*
+
 International District has a lot of great food. If you are looking for dim sum this is where 
 you want to be. There are lots of great authentic cuisine here along with bubble tea, and
 karaoke. 
