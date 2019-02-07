@@ -51,7 +51,7 @@ as to when the next bus is due at each bus stop.
 
 Seattle is served by taxis as well as rideshare services such as Lyft, Uber and
 ReachNow. There are also car-share services such as Car2Go and ReachNow, but
-there may not be much public street parking near the University.
+street parking is limited in Capitol Hill and Downtown.
 
 **Capitol Hill**
 
@@ -72,8 +72,8 @@ water (lower street numbers) on Pine or Pike. There are a few sit down options h
 mostly quick eats to grab and go. There are a variety of bars here as well but many of 
 them are small so be careful bring a large group.
 
-Westlake station has addional food and happy hour locations within walking distance. 
-There are a few cocktail bars and restaurant close to the station around the shopping 
+Westlake station has additional food and happy hour locations within walking distance. 
+There are a few cocktail bars and restaurants close to the station around the shopping 
 area. If you are up for a walk there are several hip bars around the Amazon Campus 
 (0.3 mile / 0.5 km walk from Westlake Station) or in Belltown on 1st and 2nd Ave 
 (0.5 miles / 0.8 km). 
@@ -83,26 +83,29 @@ area. If you are up for a walk there are several hip bars around the Amazon Camp
 *20-25 minutes via public transit*
 
 The University Station is the next stop on the light rail. It is the closest station to 
-the Seattle Art Museum (SAM) and situated in the buisness district of Seattle. There are 
+the Seattle Art Museum (SAM) and situated in the business district of Seattle. There are 
 many fast eats that serve the downtown workforce. As well there are bars and evening 
 restaurant nearby that often have happy hours. The vibe is often more upscale and serving 
-to the buisness professionals after work.
+to the business professionals after work.
 
 **Downtown Seattle - Pioneer Square**
 
-Pioneer Square .... Should I suggest people go here?
+*25-30 minutes via public transit*
+
+The next stop on the light rail is Pioneer Square. Pioneer Square is going through a revival 
+and has many new and established restaurants and bars. There are several cute shops and food options.
 
 **Downtown Seattle - International District**
 
 International District has a lot of great food. If you are looking for dim sum this is where 
-you want to be. The area can be a bit more .... Maybe bring a larger group. I've never been messed with though.
-
+you want to be. There are lots of great authentic cuisine here along with bubble tea, and
+karaoke. 
 
 Bargain Eats
 -------------------
 
 The University is accessible from the I-5, at the 45th St exit. There is some
-parking on campus [to be confirmed]. Prices / availablity TBD.
+parking on campus [to be confirmed]. Prices / availability TBD.
 
 
 
