@@ -86,7 +86,7 @@ The University Station is the next stop on the light rail. It is the closest sta
 the Seattle Art Museum (SAM) and situated in the business district of Seattle. There are 
 many fast eats that serve the downtown workforce. As well there are bars and evening 
 restaurant nearby that often have happy hours. The vibe is often more upscale and serving 
-to the business professionals after work.
+to business professionals after work.
 
 **Downtown Seattle - Pioneer Square**
 
