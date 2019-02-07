@@ -18,27 +18,6 @@ The closest food to Kane Hall is on University Way Northeast
 which is often referred to as The Ave. The Ave has many food options often 
 marked by the cheapness and proximity to campus. 
 
-
-**Vegetarian and Vegan Options**
-
-`Broadfork Café <http://broadforkcafe.com/>`_
-17 minute walk
-
-`Pizza Pi, vegan pizzeria <https://www.pizzapivegan.com/>`_
-20 minute walk
-
-`U:Don, fresh Japanese noodle station <https://freshudon.com/>`_
-10 minute walk
-
-**Asian Cuisine**
-
-
-
-**Pizza**
-
-`Supreme <https://seattle.eater.com/2018/11/6/18065990/supreme-pizzeria-west-seattle-expands-u-district-new-york-style-pizza>`_
-11 minute walk
-
 **U Village**
 
 Just north of UW is the U Village with several food and shopping options. 
