@@ -14,16 +14,22 @@ Seattle.
 
 **The Ave - University Way Northeast**
 
+*0.3 mile / 0.5 km walk*
+
 The closest food to Kane Hall is on University Way Northeast 
-which is often referred to as The Ave. The Ave has many food options often 
-marked by the cheapness and proximity to campus. 
+which is often referred to as The Ave. 
+The Ave has many food options often marked by the cheapness 
+and proximity to campus. There is also several coffee shops
+including Starbucks and several local spots.
+
 
 **U Village**
 
-Just north of UW is the U Village with several food and shopping options. 
-U Village is a 0.8 mile (1.3 km) walk across campus. There are a few chain 
-restaurants here but also some local options as well. The QFC here is one 
-of the closest full grocery stores to campus.
+*0.8 mile / 1.3 km walk*
+
+U Village is a mall just north of UW with several food and shopping options. 
+There are a few chain restaurants here and some local options as well. 
+The QFC here is one of the closest full grocery stores to campus.
 
 Around Town
 -------------------
@@ -35,9 +41,9 @@ and/or drinks in the evening.
 
 Both can be reached by the light rail which can be caught at the 
 University of Washington Station on Montlake Blvd. This is a 
-0.6 mile (1 km) walk from Kane Hall. There are also buses (48/197/271/542) 
-along 15th Ave which connect to the light rail station, this includes <0.3 miles (0.5 km) 
-of walking. 
+0.6 mile / 1 km walk from Kane Hall. There are also buses 
+(48/197/271/542) along 15th Ave which connect to the light 
+rail station, this includes <0.3 miles / 0.5 km of walking. 
 
 The transit timetables are integrated into the popular map apps, such as Google Maps.
 There is also the One Bus Away app for buses which gives you live updates
@@ -69,8 +75,8 @@ them are small so be careful bring a large group.
 Westlake station has addional food and happy hour locations within walking distance. 
 There are a few cocktail bars and restaurant close to the station around the shopping 
 area. If you are up for a walk there are several hip bars around the Amazon Campus 
-(0.3 mile/0.5 km walk from Westlake Station) or in Belltown on 1st and 2nd Ave 
-(0.5 miles/0.8 km). 
+(0.3 mile / 0.5 km walk from Westlake Station) or in Belltown on 1st and 2nd Ave 
+(0.5 miles / 0.8 km). 
 
 **Downtown Seattle - University Station**
 
