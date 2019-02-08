@@ -14,14 +14,24 @@ Seattle.
 
 **The Ave - University Way Northeast**
 
-*0.3 mile / 0.5 km walk*
+*0.3-1 mile / 0.5-1.6 km walk*
 
 The closest food to Kane Hall is on University Way Northeast 
 which is often referred to as The Ave. 
 The Ave has many food options often marked by the cheapness 
 and proximity to campus. There is also several coffee shops
-including Starbucks and several local spots.
+including Starbucks and several local spots. There are many 
+spot just west of campus and additional options north.
 
+- `U:Don, fresh Japanese noodle station <https://freshudon.com/>`_ 10 minute walk
+
+- `Shultzy's Bar & Grill, German comfort food <https://www.shultzys.com/>`_ 10 minute walk
+
+- `Cafe Solstice, coffee and quick bites <https://www.cafesolsticeseattle.com/>`_ 10 minute walk
+
+- `Broadfork Café, vegan sandwiches <http://broadforkcafe.com/>`_ 17 minute walk
+
+- `Pizza Pi, vegan pizzeria <https://www.pizzapivegan.com/>`_ 20 minute walk
 
 **U Village**
 
@@ -30,6 +40,8 @@ including Starbucks and several local spots.
 U Village is a mall just north of UW with several food and shopping options. 
 There are a few chain restaurants here and some local options as well. 
 The QFC here is one of the closest full grocery stores to campus.
+
+- `Ma'ono Fried Chicken <https://www.maonoseattle.com/>`_ shares space with `Rachel's Ginger Beer, alcoholic & non-alcoholic <https://rachelsgingerbeer.com/>`_ 20 minute walk
 
 Around Town
 -------------------
