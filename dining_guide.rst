@@ -59,7 +59,7 @@ Short List:
 
 
 Around Town (Possible Dinner and Evening)
--------------------
+-----------------------------------------
 
 If you want to venture away from the University of Washington 
 you have a few options. Capitol Hill and Downtown Seattle can 
