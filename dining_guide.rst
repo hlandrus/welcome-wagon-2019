@@ -139,7 +139,7 @@ Short list:
 
 - `Suite 410, fancy cocktails <http://suite410bar.com/>`_ smaller space 20 minute public transit
 
-- `Shorty's, arcade bar with hotdogs http://www.shortydog.com/>`_ 25 minute public transit
+- `Shorty's, arcade bar with hotdogs <http://www.shortydog.com/>`_ 25 minute public transit
 
 - `Serious Pie, Pizza <https://www.seriouspieseattle.com/downtown>`_ 20 minute public transit
 
@@ -171,7 +171,7 @@ you want to be. There are lots of great authentic cuisine here along with bubble
 karaoke. 
 
 Bargain Eats
--------------------
+------------
 
 The University is accessible from the I-5, at the 45th St exit. There is some
 parking on campus [to be confirmed]. Prices / availability TBD.
