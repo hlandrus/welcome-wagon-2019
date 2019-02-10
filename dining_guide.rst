@@ -6,7 +6,7 @@ Seattle Dining Guide
 .. contents::
    :local:
 
-U-District (Conference Vicinity)
+U-District (Conference Vicinity Lunch)
 --------------------------------
 
 The University of Washington is situated about 5 miles North of downtown
@@ -58,7 +58,7 @@ Short List:
 - `Molly Moon, ice cream <http://www.mollymoon.com/locations/u-village>`_ mostly dairy but sometimes vegan options call to confirm, 20 minute walk
 
 
-Around Town
+Around Town (Possible Dinner and Evening)
 -------------------
 
 If you want to venture away from the University of Washington 
@@ -101,13 +101,13 @@ Short List:
 
 - `Dick's Drive-In, local fast-food burgers <https://www.ddir.com/>`_ 15 minute public transit
 
-- `Highline, vegan bar <https://www.highlineseattle.com/>`_ 15 minute public transit
+- `Highline, vegan bar/music venue <https://www.highlineseattle.com/>`_ Note: shows start at 9pm both nights, 21+, 15 minute public transit
 
 - `Bok a Bok, korean fried chicken <http://www.bokabokchicken.com/>`_ 25 minute public transit
 
 - `Ian's Pizza, pizza with vegan and gf options <https://ianspizza.com/seattle//>`_ 20 minute public transit
 
-- `Unicorn, carnival-themed bar with sweet drinks <http://www.unicornseattle.com/>`_ 25 minute public transit
+- `Unicorn, carnival-themed bar with sweet drinks <http://www.unicornseattle.com/>`_ 21+, 25 minute public transit
 
 
 **Downtown Seattle - Pike Place/Westlake Station**
@@ -116,14 +116,34 @@ Short List:
 
 To get to Pike Place take the light rail to Westlake Station then walk towards the 
 water (lower street numbers) on Pine or Pike. There are a few sit down options here but 
-mostly quick eats to grab and go. There are a variety of bars here as well but many of 
-them are small so be careful bring a large group.
+mostly quick eats to grab and go. There are a variety of bars here as well as some 
+late night food.
+
+Short list:
+
+- `Pike Brewing, americans + beer <https://www.pikebrewing.com//>`_ all ages lots of space, 25 minute public transit
+
+- `El Borracho, tacos+ vegan options <https://www.elborracho.co/>`_ smaller space 25 minute public transit
+
+- `Alibi Room, bar with pizza and bites <http://seattlealibi.com/>`_ 25 minute public transit
+
 
 Westlake station has additional food and happy hour locations within walking distance. 
 There are a few cocktail bars and restaurants close to the station around the shopping 
 area. If you are up for a walk there are several hip bars around the Amazon Campus 
 (0.3 mile / 0.5 km walk from Westlake Station) or in Belltown on 1st and 2nd Ave 
 (0.5 miles / 0.8 km). 
+
+Short list:
+
+- `Yard House, americans + beer <https://www.yardhouse.com/home>`_ all ages lots of space, 20 minute public transit
+
+- `Suite 410, fancy cocktails <http://suite410bar.com/>`_ smaller space 20 minute public transit
+
+- `Shorty's, arcade bar with hotdogs http://www.shortydog.com/>`_ 25 minute public transit
+
+- `Serious Pie, Pizza <https://www.seriouspieseattle.com/downtown>`_ 20 minute public transit
+
 
 **Downtown Seattle - University Station**
 
@@ -134,6 +154,8 @@ the Seattle Art Museum (SAM) and situated in the business district of Seattle. T
 many fast eats that serve the downtown workforce. As well there are bars and evening 
 restaurant nearby that often have happy hours. The vibe is often more upscale and serving 
 to business professionals after work.
+
+- `Japonessa, upscale sushi with a spicy twist <http://www.japonessa.com/>`_ 25 minute public transit
 
 **Downtown Seattle - Pioneer Square**
 
