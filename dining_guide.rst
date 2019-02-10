@@ -109,7 +109,6 @@ Short List:
 
 - `Unicorn, carnival-themed bar with sweet drinks <http://www.unicornseattle.com/>`_ 21+, 25 minute public transit
 
-
 **Downtown Seattle - Pike Place/Westlake Station**
 
 *20-25 minutes via public transit*
@@ -143,7 +142,6 @@ Short list:
 - `Shorty's, arcade bar with hotdogs http://www.shortydog.com/>`_ 25 minute public transit
 
 - `Serious Pie, Pizza <https://www.seriouspieseattle.com/downtown>`_ 20 minute public transit
-
 
 **Downtown Seattle - University Station**
 
