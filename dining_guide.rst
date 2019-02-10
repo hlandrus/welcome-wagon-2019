@@ -23,6 +23,7 @@ and proximity to campus. There is also several coffee shops
 including Starbucks and several local spots. There are many 
 spot just west of campus and additional options north.
 
+
 - `U:Don, fresh Japanese noodle station <https://freshudon.com/>`_ 10 minute walk
 
 - `Shultzy's Bar & Grill, German comfort food <https://www.shultzys.com/>`_ 10 minute walk
@@ -42,6 +43,17 @@ There are a few chain restaurants here and some local options as well.
 The QFC here is one of the closest full grocery stores to campus.
 
 - `Ma'ono Fried Chicken <https://www.maonoseattle.com/>`_ shares space with `Rachel's Ginger Beer, alcoholic & non-alcoholic <https://rachelsgingerbeer.com/>`_ 20 minute walk
+
+- `Din Tai Fung, upscale dim sum <https://dintaifungusa.com/>`_ 20 minute walk
+
+- `Veggie Grill, vegan comfort food <https://www.veggiegrill.com/>`_ 20 minute walk
+
+- `Hokkaido Ramen Santouka, warm tasty ramen <https://santouka-usa.com/>`_ 20 minute walk
+
+- `Pasta Co, deli and homestyle food <http://www.pastaco.com/>`_ 20 minute walk
+
+- `Molly Moon, ice cream <http://www.mollymoon.com/locations/u-village>`_ mostly dairy but sometimes vegan options call to confirm, 20 minute walk
+
 
 Around Town
 -------------------
