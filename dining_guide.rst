@@ -23,6 +23,7 @@ and proximity to campus. There is also several coffee shops
 including Starbucks and several local spots. There are many 
 spot just west of campus and additional options north.
 
+Short List:
 
 - `U:Don, fresh Japanese noodle station <https://freshudon.com/>`_ 10 minute walk
 
@@ -42,6 +43,8 @@ U Village is a mall just north of UW with several food and shopping options.
 There are a few chain restaurants here and some local options as well. 
 The QFC here is one of the closest full grocery stores to campus.
 
+Short List:
+
 - `Ma'ono Fried Chicken <https://www.maonoseattle.com/>`_ shares space with `Rachel's Ginger Beer, alcoholic & non-alcoholic <https://rachelsgingerbeer.com/>`_ 20 minute walk
 
 - `Din Tai Fung, upscale dim sum <https://dintaifungusa.com/>`_ 20 minute walk
@@ -58,16 +61,21 @@ The QFC here is one of the closest full grocery stores to campus.
 Around Town
 -------------------
 
-The next two closest food areas to the University of Washington are 
-Capitol Hill and Downtown Seattle. These locations might be hard to 
-get there and back for lunch but could be a good place to get dinner
-and/or drinks in the evening.
+If you want to venture away from the University of Washington 
+you have a few options. Capitol Hill and Downtown Seattle can 
+be accessed via the light rail and are south of UW. To the west 
+of UW there are a few neigborhoods that can be reach via buses,
+Wallingford, Fremont, and Ballard. These locations might be hard 
+to get there and back for lunch but could be a good place to get 
+dinner and/or drinks in the evening.
 
-Both can be reached by the light rail which can be caught at the 
-University of Washington Station on Montlake Blvd. This is a 
-0.6 mile / 1 km walk from Kane Hall. There are also buses 
-(48/197/271/542) along 15th Ave which connect to the light 
-rail station, this includes <0.3 miles / 0.5 km of walking. 
+Capitol Hill and Downtown Seattle can be reached by the light 
+rail which can be caught at the University of Washington Station 
+on Montlake Blvd. This is a 0.6 mile / 1 km walk from Kane Hall. 
+There are also buses (48/197/271/542) along 15th Ave which connect 
+to the light rail station, this includes <0.3 miles / 0.5 km of walking. 
+
+<Bus directions to neighborhoods>
 
 The transit timetables are integrated into the popular map apps, such as Google Maps.
 There is also the One Bus Away app for buses which gives you live updates
@@ -86,6 +94,21 @@ popular nightlife areas in the city. There are many food options here as well an
 and other nightlife. To get to Capitol Hill via public transit you can take the light
 rail and get off at the Capitol Hill Station or there might be buses that get you closer
 to a particular restaurant.
+
+Short List:
+
+- `Tacos Chukis, tasty tacos <https://www.facebook.com/TacosChukis/>`_ 15 minute public transit
+
+- `Dick's Drive-In, local fast-food burgers <https://www.ddir.com/>`_ 15 minute public transit
+
+- `Highline, vegan bar <https://www.highlineseattle.com/>`_ 15 minute public transit
+
+- `Bok a Bok, korean fried chicken <http://www.bokabokchicken.com/>`_ 25 minute public transit
+
+- `Ian's Pizza, pizza with vegan and gf options <https://ianspizza.com/seattle//>`_ 20 minute public transit
+
+- `Unicorn, carnival-themed bar with sweet drinks <http://www.unicornseattle.com/>`_ 25 minute public transit
+
 
 **Downtown Seattle - Pike Place/Westlake Station**
 
